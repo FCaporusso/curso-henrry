@@ -1,2 +1,3 @@
-# curso-henrry
-repositorio del modulo 2 
+Este proyecto es una prueba de como crear un proyecyto y clonarlo desde Github a mi escritorio local
+.
+
